@@ -1,0 +1,21 @@
+leftnav:
+- identifier: 92c14490-cf9e-96ad-b95b-5be44af016fe
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: fea24fb6-61a1-1db3-6144-88b4d16bc1b6
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 515e0c0b-bf7e-053e-7731-337f78415813
+  name: Assignments and In-class Activities
+  pageRef: /pages/assignments-and-in-class-activities
+  weight: 30
+- identifier: 5d248b0c-85da-2d45-0e89-c3a8aded11cb
+  name: Review Test Format
+  pageRef: /pages/review-test-format
+  weight: 40
+- identifier: 7b426221-51a5-fff7-f9df-2852d5f658a6
+  name: Oral Report and Final Presentation
+  pageRef: /pages/oral-report-and-final-presentation
+  weight: 50
