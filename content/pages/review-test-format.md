@@ -2,6 +2,8 @@
 content_type: page
 description: This page provides information on the format of the review test of the
   MIT course 21G.104 Chinese IV of Spring, 2018.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Review Test Format
