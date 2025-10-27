@@ -2,8 +2,6 @@
 content_type: page
 description: This page provides course policy and other general information for the
   MIT course 21G.104 Chinese IV of Spring, 2018.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -241,7 +239,7 @@ D+ = 69.9-66.7
 
 {{< tableclose >}}
 
-Grades will be recorded on [Gradekeeper](https://www.gradekeeper.com/). Your grade record report is available upon request. If you have a question about a grade, ask your instructor. There is _no curve_ in this course. You are competing against the communicative demands of the language, not against each other. Each person will have to perform to receive credit; but there is nothing in the grading system to discourage collaborative efforts to achieve the highest level of performance possible.
+Grades will be recorded on {{% resource_link "770bf05b-fb20-4d22-b295-13657abe9ba5" "Gradekeeper" %}}. Your grade record report is available upon request. If you have a question about a grade, ask your instructor. There is _no curve_ in this course. You are competing against the communicative demands of the language, not against each other. Each person will have to perform to receive credit; but there is nothing in the grading system to discourage collaborative efforts to achieve the highest level of performance possible.
 
 _If you must miss class, please let us know well in advance if possible_. You will be allowed to make up no more than _TWO_ missed classes in this course unless you provide a doctor’s note or a note from your academic advisor to the instructor in advance. The make-ups will be conducted by the instructors by appointment and will cover the work missed. Make-ups are to be arranged within two days of your return to class; missed classes which are not made up within the above time frame or which exceed two in number will be entered as zeroes in your grade record. It is vital that you maintain communication with us if you miss class. You are expected to be in class each hour ready to perform; we do not have the resources to set up a separate program for those who cannot make it to class each hour each day.
 
@@ -261,9 +259,9 @@ _All classes are conducted in Chinese only_. English will not be used except whe
 Useful Resources
 ----------------
 
-*   [Online Chinese-English Talking Dictionary](http://www.yellowbridge.com/chinese)
-*   [Simplified to Traditional Characters Converter](http://www.chinese-tools.com/tools/converter-simptrad.html)
-*   [Chinese Characters to Pinyin Converter](https://www.purpleculture.net/chinese-pinyin-converter/)
+*   {{% resource_link "08032d83-612f-433a-8642-a650d6c362a4" "Online Chinese-English Talking Dictionary" %}}
+*   {{% resource_link "c022669c-84da-4f5b-b3ec-3ac2017d3795" "Simplified to Traditional Characters Converter" %}}
+*   {{% resource_link "dead3d08-0975-43c9-bd32-a4bec22149bf" "Chinese Characters to Pinyin Converter" %}}
 
 Classroom Etiquette
 -------------------
